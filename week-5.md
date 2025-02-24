@@ -4,3 +4,4 @@
 - Created database using Azure
 - Connected database to Project
 - Successfully passed relevant details from the database to the project
+- Spoke with our client and got feedback on changes
