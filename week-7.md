@@ -1,2 +1,2 @@
 # Week 7 Tasks Completed
-- Created a table for the job roles to be categorized.
+- Added Next Font to the group's codebase
