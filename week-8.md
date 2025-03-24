@@ -1,2 +1,3 @@
 # Week 8 Tasks Completed
-- Created a table for the job roles to be categorized.
+- Added the font to all pages in the codebase
+  
