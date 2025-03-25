@@ -4,6 +4,9 @@
 - Changed our NEXT logo to the Client's Provided logo.
 - Changed the styling for our home page 'Start Here' button
 ## Tuesday
+- Added details for then 'Questions' table from the database to our quiz page.
+- Fixed issue with buttons during the quiz not being selected after click
+- 
 ## Wednesday
 ## Thursday
 ## Friday
