@@ -5,7 +5,7 @@
 - Changed the styling for our home page 'Start Here' button
 
 Evidence:
-<img src="evidence/new-columns.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'"/>
+<img src="Evidence/new-columns.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'"/>
 ## Tuesday
 - Added details for then 'Questions' table from the database to our quiz page.
 - Fixed issue with buttons during the quiz not being selected after click
