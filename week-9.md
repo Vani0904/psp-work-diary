@@ -26,6 +26,7 @@
 - Created a new table named 'Job_Roles' that will store various job roles the candidate could be suggested for after the quiz and will display their relevant details and a link if possible
 ### Evidence:
  <img src="Evidence/job-roles-table.png" alt="Image showing a new table named 'Job_Roles' that will store any NEXT careers job roles and their details" style="width: 400px"/>
+ 
 ## Thursday
 ### Evidence:
 ## Friday
