@@ -14,7 +14,12 @@
   <img src="Evidence/questions-from-db-code-1.png" alt="Image showing the code i added to pull the questions details from the db to our website" style="width: 800px"/>
   <img src="Evidence/questions-from-db-code-2.png" alt="Image showing the code i added to pull the questions details from the db to our website" style="width: 800px"/>
   <img src="Evidence/button-selected.png" alt="Image showing buttons remaining selected and remaining green" style="width: 600px"/>
-  <img src="Evidence/new-columns.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 350px;"/>
+  <img src="Evidence/new-columns.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 350px"/>
+
 ## Wednesday
+
+### Evidence:
 ## Thursday
+### Evidence:
 ## Friday
+### Evidence:
