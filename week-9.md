@@ -8,6 +8,7 @@
   <img src="Evidence/user-results-table.png" alt="Image showing a new table named 'User_Results' that will store the user's quiz results and be compared with job roles" style="width: 400px"/>
   <img src="Evidence/new-logo-and-start-btn.png" alt="Image showing our new NEXT logo and updated Start here button to suit the theme" style="width: 600px"/>
 </div>
+
 ## Tuesday
 - Added details for the 'Questions' table from the database to our quiz page.
 - Fixed issue with buttons during the quiz not being selected after click
