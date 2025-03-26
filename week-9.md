@@ -4,7 +4,7 @@
 - Changed our NEXT logo to the Client's Provided logo.
 - Changed the styling for our home page 'Start Here' button
 ### Evidence:
-  <img src="Evidence/user-results-table.png" alt="Image showing a new table named 'UserResults' that will store the user's quiz results and be compared with job roles" style="width: 400px"/>
+  <img src="Evidence/user-results-table.png" alt="Image showing a new table named 'User_Results' that will store the user's quiz results and be compared with job roles" style="width: 400px"/>
   <img src="Evidence/new-logo-and-start-btn.png" alt="Image showing our new NEXT logo and updated Start here button to suit the theme" style="width: 600px"/>
 ## Tuesday
 - Added details for the 'Questions' table from the database to our quiz page.
@@ -17,8 +17,9 @@
   <img src="Evidence/new-columns.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 350px"/>
 
 ## Wednesday
-
+- Created a new table named 'Job_Roles' that will store various job roles the candidate could be suggested for after the quiz and will display their relevant details and a link if possible
 ### Evidence:
+ <img src="Evidence/job-roles-table.png" alt="Image showing a new table named 'Job_Roles' that will store any NEXT careers job roles and their details" style="width: 400px"/>
 ## Thursday
 ### Evidence:
 ## Friday
