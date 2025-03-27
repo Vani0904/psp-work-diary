@@ -29,6 +29,7 @@
  
 ## Thursday
 - Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work or not.
+- Added extra columns to the 'Job_Roles' to allow each job role to hold values for each category(Analytics,Creativity,Communication).
 ### Evidence:
 ## Friday
 ### Evidence:
