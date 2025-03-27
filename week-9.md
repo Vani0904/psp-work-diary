@@ -31,5 +31,6 @@
 - Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work or not.
 - Added extra columns to the 'Job_Roles' to allow each job role to hold values for each category(Analytics,Creativity,Communication).
 ### Evidence:
+ <img src="Evidence/new-jobRole-table-columns.png" alt="Image showing three new columns added to the questions table 'AnalyticaL','Creativity' and 'Communication'" style="width: 350px"/>
 ## Friday
 ### Evidence:
