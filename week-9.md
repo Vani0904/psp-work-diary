@@ -28,6 +28,7 @@
  <img src="Evidence/job-roles-table.png" alt="Image showing a new table named 'Job_Roles' that will store any NEXT careers job roles and their details" style="width: 400px"/>
  
 ## Thursday
+- Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work or not.
 ### Evidence:
 ## Friday
 ### Evidence:
