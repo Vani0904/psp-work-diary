@@ -40,5 +40,5 @@
 - During the last day of our second sprint, we all faced an issue with our database's Vcore seconds being fully used for the month (Microsoft Azure) and no longer having any access with our tables.
 - To resolve this issue, I made another database with a slight name change and ,as i luckily saved our previouse CREATE and INSERT queries for all our tables, pasted all our details back in the db fixing the errors.
 ### Evidence:
-<img src="Evidence/visit-account-btn.png" alt="Image showing buttons remaining selected and remaining green" style="width: 600px"/>
-<img src="Evidence/register-btn.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 350px"/>
+<img src="Evidence/visit-account-btn.png" alt="Image showing buttons remaining selected and remaining green" style="width: 900px"/>
+<img src="Evidence/register-btn.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 950px"/>
