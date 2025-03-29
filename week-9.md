@@ -28,11 +28,11 @@
  <img src="Evidence/job-roles-table.png" alt="Image showing a new table named 'Job_Roles' that will store any NEXT careers job roles and their details" style="width: 400px"/>
  
 ## Thursday
-- Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work or not.
 - Added extra columns to the 'Job_Roles' to allow each job role to hold values for each category(Analytics,Creativity,Communication).
 - Made the job skills details from the db appear on the website in a bullet point list format.
 ### Evidence:
  <img src="Evidence/new-jobRole-table-columns.png" alt="Image showing three new columns added to the questions table 'AnalyticaL','Creativity' and 'Communication'" style="width: 350px"/>
  
 ## Friday
+- Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work as intended or not.
 ### Evidence:
