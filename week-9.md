@@ -35,7 +35,7 @@
  
 ## Friday
 - Filled out our template for our Testing plan outlining everything used to test our project and compare our test cases to check whether they work as intended or not.
-
+- changed the appearance of the buttons on the results page and ensured our 'Register' button for that page only displayed if the user is not logged in. If they are, display a 'View Profile' button instead.
 ### Issue (Resolved)
 - During the last day of our second sprint, we all faced an issue with our database's Vcore seconds being fully used for the month (Microsoft Azure) and no longer having any access with our tables.
 - To resolve this issue, I made another database with a slight name change and ,as i luckily saved our previouse CREATE and INSERT queries for all our tables, pasted all our details back in the db fixing the errors.
