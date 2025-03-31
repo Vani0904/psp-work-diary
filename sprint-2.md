@@ -42,4 +42,4 @@
 ### Evidence:
 <img src="Evidence/visit-account-btn.png" alt="Image showing buttons remaining selected and remaining green" style="width: 900px"/>
 <img src="Evidence/register-btn.png" alt="Image showing two new columns added to the questions table 'type' and 'branch'" style="width: 950px"/>
-<img src="Evidence/testing-plan-document.png" alt="Image showing the introduction section of our Testing Plan" style="width: 950px"/>
+<img src="Evidence/testing-plan-document.png" alt="Image showing the introduction section of our Testing Plan" style="width: 400px"/>
